@@ -7,7 +7,7 @@ After your initial account setup, login to your account and you will see any **r
 **Clone** - a bit for bit copy of all of a repositories data including all folder <br /> 
 **Commit** - to commit a change is effectively to save the progress you have made in your work. <br /> 
 **Fetch** - Downloads contents of another repository into your local repository. <br /> 
-**GIT** - GIT essentially tracks changes within a set of files <br /> 
+**GIT** - GIT essentially is a local version control system that provides a record of versions <br /> 
 **Github** - Github is a hosting platform where users can collaborate on projects or work in an open source environment where you can give and receive feedback and input on code. <br /> 
 **Merge** - a command used to combine branches into a single branch <br /> 
 **Merge Conflict** - an error that happens when there is an issue between objects within the separate branches. <br /> 
