@@ -1,7 +1,7 @@
-# A03
-Step 1: Travel to https://github.com/ 
-Step 2: In the top right corner of the page, select "Sign Up". You will be prompted to enter your email address followed by creating a password for your account and finally, a username.
-After your initial account setup, login to your account and you will see any **repositories** you own on the left and also see the option to create a new repository.
+# A03 <br /> 
+Step 1: Travel to https://github.com/ <br /> 
+Step 2: In the top right corner of the page, select "Sign Up". You will be prompted to enter your email address followed by creating a password for your account and finally, a username.<br /> 
+Step: 3After your initial account setup, login to your account and you will see any **repositories** you own on the left and also see the option to create a new repository.
 
 **Branch** - a set of code that when committed, does not affect the parent repository. <br /> 
 **Clone** - a bit for bit copy of all of a repositories data including all folder <br /> 
